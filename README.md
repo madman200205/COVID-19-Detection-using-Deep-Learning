@@ -33,6 +33,6 @@ The main code is provided in the covid_detection.ipynb file. Run this file to tr
 
 Results
 
-The model achieved an accuracy of 90% on the test set. The confusion matrix is shown below:
+The model achieved an accuracy of 90% on the test set. 
 
 
