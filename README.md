@@ -1,5 +1,4 @@
-# COVID-19-Detection-using-Deep-Learning
-
+# COVID-19-Detection-using-CNN
 This repository contains code for COVID-19 detection using deep learning techniques. The model has been implemented using Keras with TensorFlow backend. The dataset used is provided.
 
 Model Architecture
